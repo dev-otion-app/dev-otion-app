@@ -2,7 +2,7 @@
 
 # Hey everybody 😆
 
-This is the official Github account of https://dev-otion.com. Here you can find repositories containing the code explained in our articles. If you are looking for the source code of the website, it's actually 👉🏻 [here](https://github.com/tsenovilla/dev-otion)
+This is the official Github account of https://dev-otion.com. Here you can find repositories containing the code explained in our articles.
 
 ## 📊 GitHub Stats:
 
